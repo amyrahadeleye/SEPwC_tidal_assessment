@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+Copyright 2025, Amyrah Adeleye 
+"""
 
 # import the modules you need here
 import argparse
